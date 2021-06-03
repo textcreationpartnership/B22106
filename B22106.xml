@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons in Parliament for assessing of all such members of either of the Houses of Parliament, as have, or shall absent themselves therefrom, or are in actuall warre, against the Parliament : and that the mannors, mesuages, lands, tenements, rents, reversions, profits, and hereditaments, of such as have not, or shall not satisfie their assessments, shall be letten for security of monies, to be lent by any persons for present supply of the army raised by the Parliament.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22106</idno><idno type="EEBO-CITATION">12147323</idno>
+  <idno type="VID">196900</idno>
+  <idno type="EEBO-PROQUEST">2240961001</idno>
+  
+            <idno type="STC">Wing E1861</idno>
+            <idno type="OCLC">12147323</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22106)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196900)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 240:E70, no 16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons in Parliament for assessing of all such members of either of the Houses of Parliament, as have, or shall absent themselves therefrom, or are in actuall warre, against the Parliament : and that the mannors, mesuages, lands, tenements, rents, reversions, profits, and hereditaments, of such as have not, or shall not satisfie their assessments, shall be letten for security of monies, to be lent by any persons for present supply of the army raised by the Parliament.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>... Printed for R. Dunscomb,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>Octob. 11, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196900:1"/>
+            <p>AN ORDINANCE OF THE LORDS and COMMONS IN PARLIAMENT: For Assessing of all such Mem<g ref="char:EOLhyphen"/>bers of either of the Houses of Parlia<g ref="char:EOLhyphen"/>ment, as have, or shall absent themselves therefrom, or are in actuall Warre, against the <hi>PARLIAMENT:</hi>
+            </p>
+            <p>And that the Mannors, Mesuages, Lands, Te<g ref="char:EOLhyphen"/>nements, Rents, Reversions, Profits, and Heredita<g ref="char:EOLhyphen"/>ments, of such as have not, or shall not satisfie their Assessements, shall be letten for security of Monies, to be lent by any persons for present supply of the Ar<g ref="char:EOLhyphen"/>my raised by the PARLIAMENT.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Ordered by the Lords &amp; Commons in Parliament, that this be Printed and published.</p>
+                        <closer>
+                           <signed>Joh. Browne Cler. Parliamentorum. H. Elsyng. Cler. P. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>Octob.</hi> 11. Printed for <hi>R. Dunscomb.</hi> 1643.</p>
+            <pb facs="tcp:196900:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_ordinance">
+            <pb n="1" facs="tcp:196900:2"/>
+            <head>AN ORDINANCE OF THE LORDS and COMMONS IN PARLIAMENT:</head>
+            <opener>
+               <dateline>
+                  <date>Die Lunae 9. Octob. 1643.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">F</seg>ORASMUCH as diverse Members of both Houses to the great dis-service of the State &amp; contrary to the trust reposed in them, have beene in actuall warre against the Parliament, or have absented themselves from the said Houses, and yet have enjoyed their Lands, Rents, and Estates, and im<g ref="char:EOLhyphen"/>ployed the same in fomenting and maintaining this unnaturall Warre: It is thereupon Ordered by the
+<pb n="2" facs="tcp:196900:3"/> Lords and Commons assembled in Parliament, That the Assessors nominated and appointed, or to bee nominated and appointed by the Com<g ref="char:EOLhyphen"/>mittee of Lords and Commons for advance of money by vertue of the former Ordinances sitting at <hi>Haberdashers hall London,</hi> shall have power to Assesse all such Members and Assistants of both or either of the Houses of Parliament, which are now absent, or shall hereafter absent themselves from ei<g ref="char:EOLhyphen"/>ther of the said Houses; or are, have beene, or shall be in Actuall warre against the Parliament, (whose estates have not yet beene sequestred, and who have or shall bee voted in both or either of the said Hou<g ref="char:EOLhyphen"/>ses in that behalfe) the twentieth and fifth part of their estates, in like manner as they had power to Assesse other persons by vertue of the said Ordi<g ref="char:EOLhyphen"/>nance. And the summes of Mony so Assessed shall be levied and recovered, in such manner as by the Ordinances for the twentieth and fift part is respe<g ref="char:EOLhyphen"/>ctively provided.</p>
+            <p>And after the said summe of Mony shall be so levi<g ref="char:EOLhyphen"/>ed, the said Committee for advance of Mony are hereby required to returne a certificate to the Com<g ref="char:EOLhyphen"/>mittee of Lords and Commons for sequestrations of the Estates so Assessed, that the said Committee may proceed therein according to the Ordinance for sequestration.</p>
+            <p>And for as much as divers persons have beene Assessed according to the said Ordinances for the twentieth and fifth part, and other Acts and Ordi<g ref="char:EOLhyphen"/>nances of Parliament for raising of Money, and
+<pb n="3" facs="tcp:196900:3"/> have not satisfied the summes on them Assessed, but absent themselves, or obstinately refuse to pay the said Assessements;</p>
+            <p>Be it therefore Ordained by the Lords and Com<g ref="char:EOLhyphen"/>mons in Parliament assembled, that the Commit<g ref="char:EOLhyphen"/>tee of Lords and Commons for advance of money and other necessaries for the Army, shall have pow<g ref="char:EOLhyphen"/>er, and are hereby required to nominate and ap<g ref="char:EOLhyphen"/>point such persons as they shall thinke fit for the purposes hereafter mentioned. Which persons shall have power, and are hereby authorised For the bet<g ref="char:EOLhyphen"/>ter securitie of repayment of such summe or sums of mony (with interest not exceeding eight li. <hi>per Cent.</hi> for the forbearance of the same,) as shall be advan<g ref="char:EOLhyphen"/>ced or lent by any person or persons for the supply of the Army raised or to bee raised by the Parlia<g ref="char:EOLhyphen"/>ment, to Let, Set and Demise, all and every the Mannors, Lands, Tenements, Rents, Reversions, Profits and Hereditaments whatsoever, of all and every such person or persons as are or shall bee As<g ref="char:EOLhyphen"/>sessed upon or by vertue of this present Ordinance, or any other former Acts or Ordinances of Parlia<g ref="char:EOLhyphen"/>ment for raising of Money, and have not or shall not satisfie the same, for and untill satisfaction shall be made of the severall summes of money by such persons respectively, to be paid, or by his Heires, Executours, Administrators or Assignes, or shall bee raised out of the Rents, Issues and Profits of the same. And all Farmers, Tenants and Occu<g ref="char:EOLhyphen"/>piers of the same Mannors, Mesuages, Lands, Te<g ref="char:EOLhyphen"/>nements, and Hereditaments, are hereby required
+<pb n="4" facs="tcp:196900:4"/> to pay their Rents respectively, to grow due unto such Person or Persons to whom the same Man<g ref="char:EOLhyphen"/>nors, Meuages, Lands, Tenements, and Heredi<g ref="char:EOLhyphen"/>taments shall be assigned, let, set, or demised as aforesaid.</p>
+            <p>And in case of refusall, it shall be lawfull for the persons to whom such Mannors, Mesuages, Lands, Tenements, and Hereditaments shall be set, let, or demised, as aforesaid, to enter and distraine, and take all other Advantages of forfeiture, or reentry, as the Persons Assessed, or to be Assessed as afore<g ref="char:EOLhyphen"/>said, might have done to all intents and purposes. And the said Persons to whom the said Mannors, Mesuages, Lands, Tenements, and Hereditaments, shall be let, set, or demised as aforesaid, and their As<g ref="char:EOLhyphen"/>signes, &amp; all Farmers, Tenants, &amp; Occupiers of the same shall herein be protected and saved harmelesse by the power and authority of both Houses of Par<g ref="char:EOLhyphen"/>liament. And it is hereby declared, that such fur<g ref="char:EOLhyphen"/>ther power and authority shall be from time to time granted by both Houses of Parliament for the better inabling the Person or Persons lending any summe or summes of Money as aforesaid, to reco<g ref="char:EOLhyphen"/>ver, receive, hold and enjoy, the Mannors, Mesu<g ref="char:EOLhyphen"/>ages, Lands, Tenements, and Hereditaments, to be let, set, or demised, as aforesaid, and reimburse<g ref="char:EOLhyphen"/>ment of the summes to be Advanced by them as a<g ref="char:EOLhyphen"/>foresaid, as shall he reasonably required. And the said Persons to be appointed by the said Committee of Lords and Commons for Advance of Money, for letting, setting, and demising of Mannors, Mesu<g ref="char:EOLhyphen"/>ages,
+<pb n="5" facs="tcp:196900:4"/> Lands, Tenements, or Hereditaments as a<g ref="char:EOLhyphen"/>foresaid; and such as they shall appoint, shall have power to call to their Assistance, the Trained Bands, Officers, and Souldiers of the severall Coun<g ref="char:EOLhyphen"/>ties wherein the same shall by the ayding and assi<g ref="char:EOLhyphen"/>sting in making distresse, giving possession or other execution of this present Ordinance. And all Cap<g ref="char:EOLhyphen"/>taines, Lievtenants, Officers, and Souldiers are re<g ref="char:EOLhyphen"/>quired to give their Assistance accordingly.</p>
+            <closer>
+               <dateline>R. <date>October 9. 1643.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>John Browne Cler. Parliamentorum.</item>
+                     <item>Hen. Elsyng Cler. Parl. Dom. Com.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
